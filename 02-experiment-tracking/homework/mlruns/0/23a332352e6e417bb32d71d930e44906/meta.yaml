@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/23a332352e6e417bb32d71d930e44906/artifacts
+end_time: 1721413770236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23a332352e6e417bb32d71d930e44906
+run_name: incongruous-bat-283
+run_uuid: 23a332352e6e417bb32d71d930e44906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721413756030
+status: 3
+tags: []
+user_id: codespace
